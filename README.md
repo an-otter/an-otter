@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @an-otter 🦦
 - 🌱 I’m currently learning business informatics
-- ⚡ Help me with: my studies and creating cute stuff as well :)
 - my languages: german & english
 
 <!---
